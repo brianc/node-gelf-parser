@@ -1,0 +1,24 @@
+{
+  "name": "gelf-parser",
+  "version": "0.0.1",
+  "description": "Parse GELF messages using a Through stream",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/brianc/node-gelf-parser.git"
+  },
+  "keywords": [
+    "GELF",
+    "graylog",
+    "graylog2",
+    "gelf"
+  ],
+  "author": "Brian M. Carlson",
+  "license": "MIT",
+  "dependencies": {
+    "okay": "~0.3.0"
+  }
+}
